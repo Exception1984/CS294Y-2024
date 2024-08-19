@@ -9,7 +9,7 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 
 | Project Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Project Instructions |
 | ----------- | ------------- | ------------------- | ------------------ | ------------------------------------------------- | -------------------- |
-| 1           | 2024-08-25    | 2023-09-15          | Aleksandar Cvejic  |                               | |
+| 1           | 2024-08-25    | 2023-09-15          | Aleksandar Cvejic  | Fully Connected Networks                          | |
 | 2           | 2024-09-15    | 2023-10-06          |                    |                                   | |
 | 3           | 2024-10-06    | 2023-10-23          |                    |                                  | |
 | 4           | 2024-10-23    | 2023-11-10          |                    |                                 | |                     
