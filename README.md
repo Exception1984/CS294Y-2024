@@ -2,7 +2,8 @@
 Neural Network Design and Training
 
 # Introduction
-[Organizational Notes](https://docs.google.com/document/d/1l-Te6-_qTPBZPMusdre2hhs5qRPaghqMHR11KxlTz68/edit?usp=sharing)
+[Organizational Notes](https://docs.google.com/document/d/1l-Te6-_qTPBZPMusdre2hhs5qRPaghqMHR11KxlTz68/edit?usp=sharing)\
+
 The slides to the introduction given in class you can find [here](https://docs.google.com/presentation/d/1Pse-7zUpR4XNJ860XTRqMTcTctCY5i6kz6VEYR_ZxEY/edit?usp=sharing). We further created a short [Introduction](introduction.md) about the prerequisites of the course, which hardware to use and how to set up the programming environment.
 
 # Projects
