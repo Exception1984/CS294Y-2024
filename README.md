@@ -2,14 +2,14 @@
 Neural Network Design and Training
 
 # Introduction
-We created a short [Introduction](introduction.md) about the prerequisites of the course, which hardware to use and how to set up the programming environment.
+The slides to the introduction given in class you can find [here](https://docs.google.com/presentation/d/1Pse-7zUpR4XNJ860XTRqMTcTctCY5i6kz6VEYR_ZxEY/edit?usp=sharing). We further created a short [Introduction](introduction.md) about the prerequisites of the course, which hardware to use and how to set up the programming environment.
 
 # Projects
 Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 
 | Project Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Project Instructions |
 | ----------- | ------------- | ------------------- | ------------------ | ------------------------------------------------- | -------------------- |
-| 1           | 2024-08-25    | 2024-09-15          | Aleksandar Cvejic  | Fully Connected Neural Networks                          | |
+| 1           | 2024-08-25    | 2024-09-15          | Aleksandar Cvejic  | Fully Connected Neural Networks                   | [Download](CS294Y_Project_1.ipynb) |
 | 2           | 2024-09-15    | 2024-10-09          |                    |                                   | |
 | 3           | 2024-10-09    | 2024-11-03          |                    |                                  | |
 | 4           | 2024-11-03    | 2024-11-27          |                    |                                 | |                     
