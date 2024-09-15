@@ -12,7 +12,7 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 | Project Nr. | Announcement  | Submission Deadline | Teaching Assistant | Topic                                             | Project Instructions |
 | ----------- | ------------- | ------------------- | ------------------ | ------------------------------------------------- | -------------------- |
 | 1           | 2024-08-25    | 2024-09-15          | Aleksandar Cvejic  | Fully Connected Neural Networks                   | [Download](CS294Y_Project_1.ipynb) |
-| 2           | 2024-09-15    | 2024-10-09          | Zhenyu Li          | Convolutional Networks                            | |
+| 2           | 2024-09-15    | 2024-10-09          | Zhenyu Li          | Convolutional Networks                            | [Download](CS294Y_Project_2_Convolutional_Networks.zip) |
 | 3           | 2024-10-09    | 2024-11-03          | Qian Wang          | Transformer 1                                     | |
 | 4           | 2024-11-03    | 2024-11-27          | Jian Shi           | Transformer 2                                     | |                     
 
