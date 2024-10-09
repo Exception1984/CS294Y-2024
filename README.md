@@ -13,7 +13,7 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 | ----------- | ------------- | ------------------- | ------------------ | ------------------------------------------------- | -------------------- |
 | 1           | 2024-08-25    | 2024-09-15          | Aleksandar Cvejic  | Fully Connected Neural Networks                   | [Download](CS294Y_Project_1.ipynb) |
 | 2           | 2024-09-15    | 2024-10-09          | Zhenyu Li          | Convolutional Networks                            | [Download](CS294Y_Project_2_Convolutional_Networks.zip) |
-| 3           | 2024-10-09    | 2024-11-03          | Qian Wang          | Transformer 1                                     | |
+| 3           | 2024-10-09    | 2024-11-03          | Qian Wang          | Transformer 1                                     | [Download](CS294Y_Project_3_transformer_sentiment_analysis.zip)|
 | 4           | 2024-11-03    | 2024-11-27          | Jian Shi           | Transformer 2                                     | |                     
 
 # Full Course Time Schedule
@@ -25,7 +25,7 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 | Project    | 1   | Fully Connected Neural Networks      | Sunday, August 25       | Sunday, September 15    | 21                 |
 | Quiz       | 1   | Assignments 1-2, Project 1           | Wednesday, September 18 | Wednesday, September 18 | 0                  |
 | Assignment | 3   | Course Review                        | Sunday, September 15    | Wednesday, September 25 | 10                 |
-| Assignment | 4   | Course Review                        | Sunday, September 22    | Sunday, September 29    | 7                  |
+| Assignment | 4   | Course Review                        | Sunday, September 29    | Sunday, October 06    | 7                  |
 | Project    | 2   | Convolutional Networks               | Sunday, September 15    | Wednesday, October 09   | 24                 |
 | Quiz       | 2   | Assignments 3-4, Project 2           | Wednesday, October 16   | Wednesday, October 16   | 0                  |
 | Assignment | 5   | Course Review                        | Sunday, October 20      | Sunday, October 27      | 7                  |
