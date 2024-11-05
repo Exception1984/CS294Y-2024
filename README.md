@@ -14,7 +14,7 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 | 1           | 2024-08-25    | 2024-09-15          | Aleksandar Cvejic  | Fully Connected Neural Networks                   | [Download](CS294Y_Project_1.ipynb) |
 | 2           | 2024-09-15    | 2024-10-09          | Zhenyu Li          | Convolutional Networks                            | [Download](CS294Y_Project_2_Convolutional_Networks.zip) |
 | 3           | 2024-10-09    | 2024-11-03          | Qian Wang          | Transformer 1                                     | [Download](CS294Y_Project_3_transformer_sentiment_analysis.zip)|
-| 4           | 2024-11-03    | 2024-11-27          | Jian Shi           | Dreambooth / LORA                                 | [PDF](CS294Y_Project_4.pdf), [ZIP](CS294Y_Project_4.zip) |                    
+| 4           | 2024-11-03    | 2024-11-27          | Jian Shi           | Dreambooth / LoRA                                 | [PDF](CS294Y_Project_4.pdf), [ZIP](CS294Y_Project_4.zip) |                    
 
 # Full Course Time Schedule
 
@@ -35,7 +35,7 @@ Projects will be handled using [BlackBoard](https://blackboard.kaust.edu.sa/).
 | Assignment | 7   | Course Review                        | Sunday, November 03     | Sunday, November 10     | 7                  |
 | Assignment | 8   | Course Review                        | Sunday, November 10     | Sunday, November 17     | 7                  |
 | Assignment | 9   | Course Review                        | Sunday, November 24     | Sunday, December 01     | 7                  |
-| Project    | 4   | Transformer (Zero Shot Segmentation) | Sunday, November 03     | Wednesday, November 27  | 24                 |
+| Project    | 4   | Dreambooth / LoRA                    | Sunday, November 03     | Wednesday, November 27  | 24                 |
 | Quiz       | 4   | Assignment 7-9, Project 4            | Sunday, December 01     | Sunday, December 01     | 0                  |
 | Assignment | 10  | Course Review                        | Sunday, December 01     | Sunday, December 08     | 7                  |
 
